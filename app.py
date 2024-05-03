@@ -61,7 +61,7 @@ def user_input(user_question):
 
 # Main function
 def main():
-    st.set_page_config("Chat PDF")  # Set the page config for the Streamlit app
+    st.set_page_config("AskPDF")  # Set the page config for the Streamlit app
     st.header("AskPDF - LLM-driven PDF Question Answering System💁")  # Display the header for the Streamlit app
     user_question = st.text_input("Ask a Question from the PDF Files")  # Get user input
     if user_question:
