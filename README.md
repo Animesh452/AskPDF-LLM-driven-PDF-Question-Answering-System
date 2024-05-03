@@ -1,4 +1,4 @@
-# AskPDF-LLM-driven-PDF-Question-Answering-System
+# AskPDF - LLM-driven PDF Question-Answering System
 
 A LLM based web application which takes multiple pdfs and can answer questions related to those pdfs. Uses Gemini so requires a google api. <br /> 
 Get you Google api here: https://aistudio.google.com/app/apikey <br />
